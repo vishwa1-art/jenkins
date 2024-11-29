@@ -12,6 +12,8 @@ public Jenkins() {
 		//C:\Users\mahes\Desktop\Jenkins\deploy\jenkins
 		
 		System.out.println("hello deploy");
+		
+		System.out.println("commit");
 	}
 
 }
